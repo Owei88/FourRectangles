@@ -15,8 +15,5 @@ public class FrameViewer {
 //        RectangleComponent component = new RectangleComponent();
 //        frame.add (component);
 
-        CircleComponent component = new CircleComponent();
-        frame.add(component);
-        frame.setVisible(true);
     }
 }
